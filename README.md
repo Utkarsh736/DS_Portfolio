@@ -1,2 +1,2 @@
-# DS_Portfolio
+# Portfolio
 A portfolio page displaying past and current work

@@ -1,6 +1,6 @@
 # Portfolio
 
-# ![Project 1: Kick or Not](https://github.com/Utkarsh736/Kick-or-not)
+# [Project 1: Kick or Not](https://github.com/Utkarsh736/Kick-or-not)
 
 ## Project Description
 
